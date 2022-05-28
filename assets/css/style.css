@@ -1,0 +1,17 @@
+body {
+    color: white;
+    background-color: black;
+    align-items: center;
+    text-align: center;
+}
+
+body h1 {
+    text-transform: capitalize;
+}
+
+body p {
+    text-transform: capitalize;
+    color: black;
+    background-color: antiquewhite;
+}
+
